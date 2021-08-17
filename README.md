@@ -3,5 +3,8 @@ HNG Second Task
 
 ## Screenshots
 
-![image](Screenshot_20200901-181107.png)
+![image](Screenshot_20210817-195039.png)
 
+
+
+Screenshot_20210817-195039.png
